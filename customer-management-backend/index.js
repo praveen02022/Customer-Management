@@ -35,4 +35,3 @@ app.use('/customer', coustomersRouter);
 app.listen(PORT, () => {
     console.log(`Server is running on port: ${PORT}`);
 });
-//https://medium.com/fbdevclagos/developing-basic-crud-operations-with-node-express-and-mongodb-e754acb9cc15
